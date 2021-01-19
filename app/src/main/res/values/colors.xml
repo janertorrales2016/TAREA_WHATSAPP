@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#00bb2d </color>
+    <color name="purple_500">#00bb2d </color>
+    <color name="purple_700">#00bb2d </color>
+    <color name="teal_200">#00bb2d </color>
+    <color name="teal_700">#00bb2d </color>
+    <color name="black">#00bb2d </color>
+    <color name="white">#FFFFFF </color>
+    <color name="colorPrimary">#00bb2d </color>
+    <color name="colorPrimaryDark">#393939</color>
+    <color name="colorAccent">#52b7f8</color>
+    <color name="backgroundfragment">#2b2b2b</color>
+</resources>
